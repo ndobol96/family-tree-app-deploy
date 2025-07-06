@@ -1,0 +1,9 @@
+# Folder dan file yang tidak perlu saat deploy ke Vercel
+node_modules
+.vscode
+*.log
+*.zip
+*.sh
+.DS_Store
+Thumbs.db
+.env
